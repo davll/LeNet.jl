@@ -358,10 +358,8 @@ uuid = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 version = "1.0.3"
 
 [[LeNet]]
-deps = ["FileIO", "FixedPointNumbers", "Images", "IterTools", "JLD2", "Knet", "MLDatasets", "PaddedViews", "Printf", "PyPlot", "Statistics"]
-git-tree-sha1 = "6ba595e837754441caf8d7f9ceae085458865fff"
-repo-rev = "master"
-repo-url = "../LeNet.jl"
+deps = ["FileIO", "FixedPointNumbers", "JLD2", "Knet", "MLDatasets", "PaddedViews", "Printf", "Statistics"]
+path = ".."
 uuid = "59d537c7-900a-4367-85e8-51a37eacc432"
 version = "0.1.0"
 
