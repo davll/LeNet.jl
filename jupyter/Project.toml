@@ -1,0 +1,10 @@
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+Knet = "1902f260-5fb4-5aff-8c31-6271790ab950"
+LeNet = "59d537c7-900a-4367-85e8-51a37eacc432"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
